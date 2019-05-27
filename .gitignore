@@ -32,6 +32,3 @@ Thumbs.db
 # macOS
 .DS_Store
 ._*
-.gitignore
-src/main/resources/
-src/test/
